@@ -1,3 +1,0 @@
-/home/simon/YH/cpp-assignment/build/CMakeFiles/rebuild_cache.dir
-/home/simon/YH/cpp-assignment/build/CMakeFiles/edit_cache.dir
-/home/simon/YH/cpp-assignment/build/CMakeFiles/my_box.dir

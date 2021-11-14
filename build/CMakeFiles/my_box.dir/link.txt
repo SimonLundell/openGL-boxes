@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/my_box.dir/src/Box.cpp.o CMakeFiles/my_box.dir/src/Camera.cpp.o CMakeFiles/my_box.dir/src/Draw.cpp.o CMakeFiles/my_box.dir/src/Shader.cpp.o CMakeFiles/my_box.dir/src/Stb_image.cpp.o CMakeFiles/my_box.dir/src/Window.cpp.o CMakeFiles/my_box.dir/src/main.cpp.o -o my_box  -lglfw -lGL -lGLEW 
