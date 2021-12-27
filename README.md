@@ -1,3 +1,6 @@
+# Renders boxes on screen
+![Output](/misc/my_box_preview.gif)
+
 Follow these steps to run the program (on linux)
 
 1. mkdir build && cd build
